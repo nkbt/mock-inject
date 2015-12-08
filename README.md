@@ -1,3 +1,3 @@
 # mock-inject
 
-Inject mocks before they are loaded by NodeJS' require(), threfore avoid them being added to the code coverage.
+Inject mocks before they are loaded by NodeJS' require(), therefore avoid them being added to the code coverage.
